@@ -2,8 +2,6 @@ Hi👋 I'm Lucas Semelin! I'm a product engineer & consultant, specialized desig
 
 ## About Me
 
-------------
-
 I've been working with web development for fifteen years, and started to work in UX/UI project five years ago, when I understand that every digital product is a combination of a great user experience and a strong technological platform. Since then, I help businesses and government in every single step of their digital products, from conception to implementation and evolution.
 
 <!--
