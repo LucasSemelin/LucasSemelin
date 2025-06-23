@@ -9,11 +9,11 @@ Throughout my career, I’ve developed SaaS platforms, government software, back
 I work as a freelancer and consultant on projects that require strategic thinking, technical execution, and a user-centered mindset. I also support companies in their digital transformation efforts, helping them turn complex challenges into clear, usable, and scalable solutions.
 
 What I do
-▪︎ UX and functional architecture design
-▪︎ AI integration in product workflows (LLMs, agents, prompt chaining)
-▪︎ Full-stack web software development
-▪︎ Implementation, roadmap planning & continuous improvement
-▪︎ Consulting in digital products and digital transformation
+- UX and functional architecture design
+- AI integration in product workflows (LLMs, agents, prompt chaining)
+- Full-stack web software development
+- Implementation, roadmap planning & continuous improvement
+- Consulting in digital products and digital transformation
 
 I collaborate with startups, product teams, and companies that need to build or evolve software that works, scales, and is truly designed for the people who use it.
 
